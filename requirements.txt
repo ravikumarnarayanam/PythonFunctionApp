@@ -3,3 +3,19 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+numpy==1.26.0
+tiktoken
+openai==0.23.1
+python-docx
+python-pptx
+pandas
+striprtf
+nltk
+fuzzywuzzy
+PyMuPDF
+scikit-learn
+urllib3
+ipaddress
+python-Levenshtein
+futures
+typing
